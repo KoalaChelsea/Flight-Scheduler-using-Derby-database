@@ -10,7 +10,7 @@ import javax.swing.*;
 
 /**
  *
- * @author koala
+ * @author Yingjie(Chelsea) Wang
  */
 public class FlightSchedulerFrame extends JFrame {
     private final SchedulingService schedulingService = new SchedulingService();
