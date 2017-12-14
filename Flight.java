@@ -7,7 +7,7 @@ package flightscheduleryjw5018.data;
 
 /**
  *
- * @author koala
+ * @author Yingjie(Chelsea) Wang
  */
 public class Flight {
     private String name;
