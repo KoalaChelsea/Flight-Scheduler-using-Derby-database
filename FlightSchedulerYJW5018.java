@@ -12,7 +12,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author koala
+ * @author Yingjie(Chelsea) Wang
  */
 public class FlightSchedulerYJW5018{
 
