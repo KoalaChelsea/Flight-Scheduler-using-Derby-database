@@ -10,7 +10,7 @@ import java.util.Date;
 
 /**
  *
- * @author koala
+ * @author Yingjie(Chelsea) Wang
  */
 public class Booking {
 
